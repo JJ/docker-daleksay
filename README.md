@@ -6,19 +6,21 @@ A Docker container with a talking Dalek. This is a completely functional and utt
 
 If you are going to use it several times,
 
-	sudo docker pull jjmerelo/daleksay
+	sudo docker pull jjmerelo/docker-daleksay
 	
 and then
 
-	sudo docker run -it --rm  jjmerelo/daleksay Destroy
+	sudo docker run -it --rm  jjmerelo/docker-daleksay Destroy
 	
 There are many critters avaiable. If you feel adventurous
 
-	sudo docker run -it --rmjjmerelo/daleksay -f aardvark Ants are friends
+	sudo docker run -it --rmjjmerelo/docker-daleksay -f aardvark Ants are friends
 
-Or even using the stoner version
+Or even using the *stoner* version
 
-    sudo docker run -it --rm jjmerelo/daleksay -f cow -s Hey ya
+    sudo docker run -it --rm jjmerelo/docker-daleksay -f cow -s Hey ya
+
+(with *stoner* meaning starry eyes and sticking-out tongue).
 
 ## Source for everything
 
