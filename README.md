@@ -1,4 +1,4 @@
-# docker-daleksay
+# Talking ASCII art Docker container demo aka `daleksay`
 
 A Docker container with a talking Dalek. This is a completely
 functional and utterly useless Docker container, mainly useful for
